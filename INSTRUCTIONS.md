@@ -16,6 +16,7 @@ You can make as many additional functions as you want or change the default code
 
 - You are allowed to use any resource so long as it follows the course syllabus and any external resource is cited in both the code (as a comment) and the README.md file.
 - Only built-in libraries are allowed. Your program should not and cannot use anything that must be installed from an external source.
+- Only one .cpp file is allowed! No header files, object files, or additional .cpp files -- just expertbot.cpp.
 
 ## Example
 
