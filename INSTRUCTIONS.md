@@ -4,6 +4,14 @@ ChatGPT is a pretty general and knowledgable chatbot -- but it isn't an *EXPERT*
 
 The user can ask it almost anything and it should have an accurate answer. Essentially, if a trivia question comes up based on the particular topic, your chatbot should be able to answer it. You will also need to do some research to provide these accurate answers and to make sure your bot isn't giving your user misinformation.
 
+## Code
+
+[expertbot.cpp](expertbot.cpp) is given as a starter code file. You can use this file and change also the name if you want -- just remember to state how to compile and run it in the README! In it there are 2 functions: 
+- `int main` -- the main function
+- `int random` -- returns a random value between a minimum and maximum integer (for use with the default response)
+
+You can make as many additional functions as you want or change the default code, so long as it's commented and compiles without errors!
+
 ## Rules
 
 - You are allowed to use any resource so long as it follows the course syllabus and any external resource is cited in both the code (as a comment) and the README.md file.
