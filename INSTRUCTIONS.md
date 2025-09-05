@@ -19,7 +19,7 @@ You can make as many additional functions as you want or change the default code
 
 ## Example
 
-[ScottBot](scottbot) an expert on the Scott Pilgrim series is given as an example chatbot. You can run it with the command `./scottbot`
+[ScottBot](scottbot), an expert on the Scott Pilgrim series, is given as an example executable chatbot. You can run it with the command `./scottbot`
 
 
 ## Rubric ( 100 Points total )
