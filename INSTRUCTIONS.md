@@ -21,7 +21,7 @@ You can make as many additional functions as you want or change the default code
 ## Example
 
 [ScottBot](scottbot), an expert on the Scott Pilgrim series, is given as an example executable chatbot. You can run it with the command `./scottbot`
-
+Try asking it things like "What is Clash at Demonhead?", "Who is Scott", "Where is Second Cup", "When did the video game release?"
 
 ## Rubric ( 100 Points total )
 
