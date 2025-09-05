@@ -9,6 +9,10 @@ The user can ask it almost anything and it should have an accurate answer. Essen
 - You are allowed to use any resource so long as it follows the course syllabus and any external resource is cited in both the code (as a comment) and the README.md file.
 - Only built-in libraries are allowed. Your program should not and cannot use anything that must be installed from an external source.
 
+## Example
+
+[ScottBot](scottbot) an expert on the Scott Pilgrim series is given as an example chatbot. You can run it with the command `./scottbot`
+
 
 ## Rubric ( 100 Points total )
 
@@ -51,8 +55,9 @@ The user can ask it almost anything and it should have an accurate answer. Essen
 | :----: | :------- |
 | **2 pts** | Name, date, and program description |
 | **2 pts** | Section on how to compile and run the chatbot |
-| **3 pts** | Section on example usage with the chatbot |
-| **3 pts** | Section with a list of references used and any generative AI chat conversations used to develop the bot |
+| **2 pts** | Section with all of the keyword commands used for the chatbot (all of the "who", "what", "when", "where" and their keywords for answers) |
+| **1 pts** | Section on example usage with the chatbot (does not have to be fully extensive or show every answer) |
+| **1 pts** | Section with a list of references used and any generative AI chat conversations used to develop the bot |
 
 **(10 points total)**
 
