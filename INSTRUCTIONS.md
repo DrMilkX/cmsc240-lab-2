@@ -21,7 +21,13 @@ You can make as many additional functions as you want or change the default code
 ## Example
 
 [ScottBot](scottbot), an expert on the Scott Pilgrim series, is given as an example executable chatbot. You can run it with the command `./scottbot`
-Try asking it things like "What is Clash at Demonhead?", "Who is Scott", "Where is Second Cup", "When did the video game release?"
+Try asking it things like "What is Clash at Demonhead?", "Who is Scott", "Where is Second Cup", "When did the video game release?". If he doesn't know an answer to something, he will give with a default suggestion of what to ask about or a fun fact.
+
+ScottBot has the following questions and commands:
+
+
+*NOTE: If you get a message in the console that says `permission denied` call the following command `chmod +x scottbot` to change the permissions for the file*
+*NOTE 2: If you are running the code on a Macbook M1+ or a machine with the ARM architecture, or if you get a message in the console that says `zsh: exec format error:`, run `./scottbot_ARM` instead.*
 
 ## Rubric ( 100 Points total )
 
