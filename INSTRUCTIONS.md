@@ -25,9 +25,17 @@ Try asking it things like "What is Clash at Demonhead?", "Who is Scott", "Where 
 
 ScottBot has the following questions and commands:
 
+| Question | Keyword                                                            |
+|----------|--------------------------------------------------------------------|
+| What     | Sex Bob-Omb<br>Bass<br>sword \|\| katana<br>Clash at Demonhead     |
+| When     | published \|\| book<br>movie<br>game<br>tv show                    |
+| Where    | setting \|\| take place<br>Lee's Palace<br>Subspace<br>Second Cup  |
+| Who      | evil exes \|\| evil X<br>Ramona Flowers<br>Scott Pilgrim<br>Knives |
 
-*NOTE: If you get a message in the console that says `permission denied` call the following command `chmod +x scottbot` to change the permissions for the file*
-*NOTE 2: If you are running the code on a Macbook M1+ or a machine with the ARM architecture, or if you get a message in the console that says `zsh: exec format error:`, run `./scottbot_ARM` instead.*
+You can also ask `Show me a picture` or have a phrase with the word 'pic' or 'picture' in it
+
+* *NOTE: If you get a message in the console that says `permission denied` call the following command `chmod +x scottbot` to change the permissions for the file*
+* *NOTE 2: If you are running the code on a Macbook M1+ or a machine with the ARM architecture, or if you get a message in the console that says `zsh: exec format error:`, run `./scottbot_ARM` instead.*
 
 ## Rubric ( 100 Points total )
 
